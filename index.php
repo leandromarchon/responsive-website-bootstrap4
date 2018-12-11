@@ -70,7 +70,7 @@
 	</div>
 
 	<!-- Welcome Section -->
-	<div class="container-fluid padding">
+	<div class="container padding">
 		<div class="row welcome text-center">
 			<div class="col-12">
 				<h1 class="display-5">Built with ease</h1>
@@ -86,7 +86,7 @@
 	</div>
 
 	<!-- Three Column Section -->
-	<div class="container-fluid padding">
+	<div class="container padding">
 		<div class="row padding text-center">
 			<div class="col-xs-12 col-sm-6 col-md-4">
 				<i class="fas fa-code"></i>
@@ -107,7 +107,7 @@
 	</div>
 
 	<!-- Two Column Section -->
-	<div class="container-fluid padding">
+	<div class="container padding">
 		<div class="row padding">
 			<div class="col-md-12 col-lg-6">
 				<h2>If you build it...</h2>
@@ -139,10 +139,52 @@
 	</figure>
 
 	<!-- Meet the team -->
-	<div class="container-fluid padding">
+	<div class="container padding">
 		<div class="row welcome text-center">
 			<div class="col-12">
 				<h1 class="display-5">Meet the Team</h1>
+			</div>
+		</div>
+	</div>
+
+	<!-- Cards Section -->
+	<div class="container padding">
+		<div class="row padding">
+			<div class="col-md-4">
+				<div class="card">
+					<img src="assets/img/team1.png" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">John Doe</h4>
+						<p class="card-text">
+							John is an Internet entrepreneur with almost 20 years of experience.
+						</p>
+						<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="card">
+					<img src="assets/img/team2.png" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Mary Jo</h4>
+						<p class="card-text">
+							Mary is a designer with almost 10 years of digital design experience.
+						</p>
+						<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="card">
+					<img src="assets/img/team3.png" class="card-img-top">
+					<div class="card-body">
+						<h4 class="card-title">Phil Ho</h4>
+						<p class="card-text">
+							Phil is a developer with over 5 years of web development experience.
+						</p>
+						<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
