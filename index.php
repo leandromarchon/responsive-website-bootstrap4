@@ -75,7 +75,6 @@
 			<div class="col-12">
 				<h1 class="display-5">Built with ease</h1>
 			</div>
-			<hr>
 			<div class="col-12">
 				<p class="lead">
 					Welcome to my Bootstrap 4 website tutorial! Bootstrap is a free and open-source front-end 
@@ -185,6 +184,28 @@
 						<a href="#" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Two Column Section -->
+	<div class="container padding">
+		<div class="row padding">
+			<div class="col-lg-6">
+				<h2>Our Philosophy</h2>
+				<p class="lead">
+					We know that greatness in a disruptive era require bold ambition, curious talent and a culture 
+					that believes we're smarter together.
+				</p>
+				<p class="lead">
+					We approach every challenge holistically, with best-in-class expertise in data, creativity, 
+					media, technology, search, social and more. We call this Alchemy. It has the power to build 
+					our clients brands and transform their business. And while it may seem like magic, we've got 
+					it down to a science.
+				</p>
+			</div>
+			<div class="col-lg-6">
+				<img src="assets/img/bootstrap2.png" class="img-fluid">
 			</div>
 		</div>
 	</div>
