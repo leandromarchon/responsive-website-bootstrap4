@@ -22,7 +22,7 @@
 					<li class="nav-item"><a class="nav-link" href="#">About</a></li>
 					<li class="nav-item"><a class="nav-link" href="#">Services</a></li>
 					<li class="nav-item"><a class="nav-link" href="#">Team</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+					<li class="nav-item"><a class="nav-link" href="#">Connect</a></li>
 				</ul>
 			</div>
 		</div>
@@ -206,6 +206,22 @@
 			</div>
 			<div class="col-lg-6">
 				<img src="assets/img/bootstrap2.png" class="img-fluid">
+			</div>
+		</div>
+	</div>
+
+	<!-- Connect Section -->
+	<div class="container padding">
+		<div class="row padding text-center">
+			<div class="col-12">
+				<h2>Connect</h2>
+				<div class="col-12 social padding">
+					<a href="#"><i class="fab fa-facebook"></i></a>
+					<a href="#"><i class="fab fa-twitter"></i></a>
+					<a href="#"><i class="fab fa-google-plus-g"></i></a>
+					<a href="#"><i class="fab fa-instagram"></i></a>
+					<a href="#"><i class="fab fa-youtube"></i></a>
+				</div>
 			</div>
 		</div>
 	</div>
