@@ -27,6 +27,32 @@
 		</div>
 	</nav>
 
+	<!-- Slides -->
+	<div id="slides" class="carousel slide" data-ride="carousel">
+		<ul class="carousel-indicators">
+			<li data-target="#slides" data-slide-to="0" class="active"></li>
+			<li data-target="#slides" data-slide-to="1"></li>
+			<li data-target="#slides" data-slide-to="2"></li>
+		</ul>
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<img src="assets/img/background.png">
+				<div class="carousel-caption">
+					<h1 class="display-2">Bootstrap</h1>
+					<h3>Complete Website Layout</h3>
+					<button class="btn btn-outline-light btn-lg" type="button">View Demo</button>
+					<button class="btn btn-primary btn-lg" type="button">Get Started</button>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<img src="assets/img/background2.png">
+			</div>
+			<div class="carousel-item">
+				<img src="assets/img/background3.png">
+			</div>
+		</div>
+	</div>
+
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 </body>
