@@ -131,6 +131,14 @@
 		</div>
 	</div>
 
+	<!-- Fixed Background Section -->
+	<figure>
+		<div class="fixed-wrap">
+			<div id="fixed"></div>
+		</div>
+	</figure>
+
+
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
