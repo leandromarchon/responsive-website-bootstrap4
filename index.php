@@ -85,7 +85,29 @@
 		</div>
 	</div>
 
+	<!-- Three Column Section -->
+	<div class="container-fluid padding">
+		<div class="row padding text-center">
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<i class="fas fa-code"></i>
+				<h3>HTML5</h3>
+				<p>Built with the latest version of HTML, HTML5.</p>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<i class="fas fa-bold"></i>
+				<h3>BOOTSTRAP</h3>
+				<p>Built with the latest version of Bootstrap, Bootstrap 4.</p>
+			</div>
+			<div class="col-sm-12 col-md-4">
+				<i class="fab fa-css3-alt"></i>
+				<h3>CSS3</h3>
+				<p>Built with the latest version of CSS, CSS3.</p>
+			</div>
+		</div>
+	</div>
+
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 </body>
 </html>
