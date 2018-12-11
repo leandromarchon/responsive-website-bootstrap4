@@ -106,6 +106,31 @@
 		</div>
 	</div>
 
+	<!-- Two Column Section -->
+	<div class="container-fluid padding">
+		<div class="row padding">
+			<div class="col-md-12 col-lg-6">
+				<h2>If you build it...</h2>
+				<p>
+					The columns will automatically stack on top of each other when the screen is less than 
+					576px wide.
+				</p>
+				<p>
+					Resize the browser window to see the effect. Responsive web design has become more important 
+					as the amount of mobile traffic now accounts for more than half of total internet traffic.
+				</p>
+				<p>
+					It can also display the web page differently depending on the screen size or viewing device.
+				</p>
+				<br>
+				<a href="#" class="btn btn-primary">Learn More</a>
+			</div>
+			<div class="col-lg-6">
+				<img src="assets/img/desk.png" class="img-fluid">
+			</div>
+		</div>
+	</div>
+
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
