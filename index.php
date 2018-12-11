@@ -214,7 +214,7 @@
 	<div class="container padding">
 		<div class="row padding text-center">
 			<div class="col-12">
-				<h2>Connect</h2>
+				<h1 class="display-5">Connect</h1>
 				<div class="col-12 social padding">
 					<a href="#"><i class="fab fa-facebook"></i></a>
 					<a href="#"><i class="fab fa-twitter"></i></a>
@@ -222,6 +222,38 @@
 					<a href="#"><i class="fab fa-instagram"></i></a>
 					<a href="#"><i class="fab fa-youtube"></i></a>
 				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Footer -->
+	<div class="container padding">
+		<div class="row text-center">
+			<div class="col-md-4">
+				<img src="assets/img/w3newbie.png">
+				<hr class="light">
+				<p>555-555-555</p>
+				<p>email@email.com</p>
+				<p>100 Street Name</p>
+				<p>City, State</p>
+			</div>
+			<div class="col-md-4">
+				<hr class="light">
+				<h5>Our Hours</h5>
+				<hr class="light">
+				<p>Monday: 9am</p>
+				<p>Saturday: 10am</p>
+				<p>Sunday: closed</p>
+			</div>
+			<div class="col-md-4">
+				<hr class="light">
+				<h5>Service Area</h5>
+				<hr class="light">
+				<p>City, State</p>
+			</div>
+			<div class="col-12">
+				<hr class="light">
+				<h5>&copy; w3newbie.com</h5>
 			</div>
 		</div>
 	</div>
