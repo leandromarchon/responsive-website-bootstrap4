@@ -54,6 +54,21 @@
 		</div>
 	</div>
 
+	<!-- Jumbotron -->
+	<div class="container-fluid">
+		<div class="row jumbotron">
+			<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+				<p class="lead">
+					A web hosting service allows individuals and organizations to make their webiste accessible 
+					via the World Wide Web.
+				</p>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+				<a href="#"><button type="button" class="btn btn-outline-secondary btn-lg">Web Hosting</button></a>
+			</div>
+		</div>
+	</div>
+
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 </body>
