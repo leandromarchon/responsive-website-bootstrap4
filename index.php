@@ -138,6 +138,14 @@
 		</div>
 	</figure>
 
+	<!-- Meet the team -->
+	<div class="container-fluid padding">
+		<div class="row welcome text-center">
+			<div class="col-12">
+				<h1 class="display-5">Meet the Team</h1>
+			</div>
+		</div>
+	</div>
 
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
