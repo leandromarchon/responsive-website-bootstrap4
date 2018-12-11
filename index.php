@@ -69,6 +69,22 @@
 		</div>
 	</div>
 
+	<!-- Welcome Section -->
+	<div class="container-fluid padding">
+		<div class="row welcome text-center">
+			<div class="col-12">
+				<h1 class="display-5">Built with ease</h1>
+			</div>
+			<hr>
+			<div class="col-12">
+				<p class="lead">
+					Welcome to my Bootstrap 4 website tutorial! Bootstrap is a free and open-source front-end 
+					library with HTML and CSS based designs.
+				</p>
+			</div>
+		</div>
+	</div>
+
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 </body>
