@@ -75,6 +75,7 @@
 			<div class="col-12">
 				<h1 class="display-5">Built with ease</h1>
 			</div>
+			<hr>
 			<div class="col-12">
 				<p class="lead">
 					Welcome to my Bootstrap 4 website tutorial! Bootstrap is a free and open-source front-end 
@@ -143,6 +144,7 @@
 			<div class="col-12">
 				<h1 class="display-5">Meet the Team</h1>
 			</div>
+			<hr>
 		</div>
 	</div>
 
@@ -227,36 +229,38 @@
 	</div>
 
 	<!-- Footer -->
-	<div class="container padding">
-		<div class="row text-center">
-			<div class="col-md-4">
-				<img src="assets/img/w3newbie.png">
-				<hr class="light">
-				<p>555-555-555</p>
-				<p>email@email.com</p>
-				<p>100 Street Name</p>
-				<p>City, State</p>
-			</div>
-			<div class="col-md-4">
-				<hr class="light">
-				<h5>Our Hours</h5>
-				<hr class="light">
-				<p>Monday: 9am</p>
-				<p>Saturday: 10am</p>
-				<p>Sunday: closed</p>
-			</div>
-			<div class="col-md-4">
-				<hr class="light">
-				<h5>Service Area</h5>
-				<hr class="light">
-				<p>City, State</p>
-			</div>
-			<div class="col-12">
-				<hr class="light">
-				<h5>&copy; w3newbie.com</h5>
+	<footer class="container-fluid">	
+		<div class="container padding">
+			<div class="row text-center">
+				<div class="col-md-4">
+					<img src="assets/img/w3newbie.png">
+					<hr class="light">
+					<p>555-555-555</p>
+					<p>email@email.com</p>
+					<p>100 Street Name</p>
+					<p>City, State</p>
+				</div>
+				<div class="col-md-4">
+					<hr class="light">
+					<h5>Our Hours</h5>
+					<hr class="light">
+					<p>Monday: 9am</p>
+					<p>Saturday: 10am</p>
+					<p>Sunday: closed</p>
+				</div>
+				<div class="col-md-4">
+					<hr class="light">
+					<h5>Service Area</h5>
+					<hr class="light">
+					<p>City, State</p>
+				</div>
+				<div class="col-12">
+					<hr class="light-100">
+					<h5>&copy; w3newbie.com</h5>
+				</div>
 			</div>
 		</div>
-	</div>
+	</footer>
 
 	<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
